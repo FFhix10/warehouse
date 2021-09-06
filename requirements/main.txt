@@ -161,7 +161,7 @@ cmarkgfm==0.4.2 \
     --hash=sha256:e8932bddf159064f04e946fbb64693753488de21586f20e840b3be51745c8c09 \
     --hash=sha256:f20900f16377f2109783ae9348d34bc80530808439591c3d3df73d5c7ef1a00c \
     # via readme-renderer
-cryptography==3.2.1 \
+cryptography==3.3.2 \
     --hash=sha256:07ca431b788249af92764e3be9a488aa1d39a0bc3be313d826bbec690417e538 \
     --hash=sha256:13b88a0bd044b4eae1ef40e265d006e34dbcde0c2f1e15eb9896501b2d8f6c6f \
     --hash=sha256:32434673d8505b42c0de4de86da8c1620651abd24afe91ae0335597683ed1b77 \
@@ -390,7 +390,7 @@ itsdangerous==1.1.0 \
     --hash=sha256:321b033d07f2a4136d3ec762eac9f16a10ccd60f53c0c91af90217ace7ba1f19 \
     --hash=sha256:b12271b2047cb23eeb98c8b5622e2e5c5e9abd9784a153e9d8ef9cb4dd09d749 \
     # via -r requirements/main.in
-jinja2==2.11.2 \
+jinja2==2.11.3 \
     --hash=sha256:89aab215427ef59c34ad58735269eb58b1a5808103067f7bb9d5836c651b3bb0 \
     --hash=sha256:f0a4641d3cf955324a89c04f3d94663aa4d638abe8f733ecd3582848e1c37035 \
     # via -r requirements/main.in, pyramid-jinja2
@@ -629,7 +629,7 @@ pycurl==7.43.0.5 \
     --hash=sha256:e1aea68b1d39dbcafc7298214f51f6ebd5f188c06aa418e9c046dfe419fe7ecf \
     --hash=sha256:ec7dd291545842295b7b56c12c90ffad2976cc7070c98d7b1517b7b6cd5994b3 \
     # via -r requirements/main.in, celery
-pygments==2.7.2 \
+pygments==2.7.4 \
     --hash=sha256:381985fcc551eb9d37c52088a32914e00517e57f4a21609f48141ba08e193fa0 \
     --hash=sha256:88a0bbcd659fcb9573703957c6b9cff9fab7295e6e76db54c9d00ae42df32773 \
     # via readme-renderer
